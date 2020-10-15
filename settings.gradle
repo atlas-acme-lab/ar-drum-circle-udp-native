@@ -1,0 +1,3 @@
+include ':networkinglibrary'
+include ':app'
+rootProject.name = "ar_drum_circle_native_lib"
